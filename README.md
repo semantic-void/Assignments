@@ -1,5 +1,6 @@
 - Download the project zip and open it (assignment) using eclipse.
 - Make sure that JDK 17 is installed because the project is built using.
+- Just run it as a spring boot project and it's ready to go.
 - As we are using H2 which is an embedded in-memory database, the values 
   needed to be populated every time we start the application/server. 
   There is no default populating of values so please add them using postman.
